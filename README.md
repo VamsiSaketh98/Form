@@ -1,8 +1,8 @@
-# React + Vite
+ Hi there 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is 30 Days of React challenge where i will create react projects daily 
 
-Currently, two official plugins are available:
+Here is Day 1 of 30 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Let's goooo
+
